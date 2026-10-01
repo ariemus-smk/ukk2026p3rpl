@@ -1,0 +1,14 @@
+# ==============================================================
+# GIT IGNORE
+# ==============================================================
+
+# Konfigurasi Database Lokal (Kredensial Sensitif)
+config.php
+
+# Sistem Operasi & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.bak
